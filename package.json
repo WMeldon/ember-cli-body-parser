@@ -1,0 +1,26 @@
+{
+  "name": "ember-cli-body-parser",
+  "version": "0.0.1",
+  "description": "Include body parser for ember-cli stub server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ember-addon"
+  ],
+  "author": "William Meldon",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.4.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/WMeldon/ember-cli-body-parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WMeldon/ember-cli-body-parser/issues"
+  },
+  "homepage": "https://github.com/WMeldon/ember-cli-body-parser"
+}
